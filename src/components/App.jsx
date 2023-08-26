@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { addContact, deleteContact, setFilter } from '../redux/contactsslice';
 import { Filter } from './Filter/Filter';
-import ContactForm from './ContactForm/ContactForm'; // Обратите внимание на импорт
+import ContactForm from './ContactForm/ContactForm'; 
 import { ContactList } from './ContactList/ContactList';
 import { Provider } from 'react-redux';
 import { PersistGate } from 'redux-persist/integration/react';
