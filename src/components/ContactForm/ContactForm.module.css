@@ -6,6 +6,7 @@
     padding: 10px;
     width: 600px;
     margin-left: 100px;
+    background-color: #f9f7f9;
 }
 
 .formName,
@@ -18,6 +19,7 @@
     text-align: left;
     padding: 0.5rem 15rem 0.5rem 1rem;
     color: #302a51;
+    background-color: #e2e0e9;
 }
 
 .formBtn {
